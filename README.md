@@ -1,8 +1,8 @@
-# My Game
+# My prjects
 
 A simple browser game made with HTML, CSS and JavaScript.
 
-## How to Play
+## How to use
 - Open the live demo link
 - Follow the on-screen instructions
 
